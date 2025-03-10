@@ -3,6 +3,8 @@
 * {
   font-family: "Lexend", sans-serif;
   overflow-x: hidden;
+  outline: 1px solid red;
+
 }
 /* template warna */
 :root {
