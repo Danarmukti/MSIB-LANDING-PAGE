@@ -2,6 +2,7 @@
 
 * {
   font-family: "Lexend", sans-serif;
+  overflow-x: hidden;
 }
 /* template warna */
 :root {
@@ -43,9 +44,7 @@ a {
   font-size: 32px;
   line-height: 40px;
 }
-body {
-  overflow-x: hidden;
-}
+
 /* link menu */
 .link-menu {
   list-style: none;
