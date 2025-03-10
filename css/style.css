@@ -112,8 +112,11 @@ a {
 .hero-section {
   background-image: url("../asset/hero-asset/hero-img.png");
   width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
   height: 100vh;
   padding-top: 5rem;
+  padding-bottom: 48rem;
   margin-top: -10rem;
 }
 .hero-konten {
