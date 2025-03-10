@@ -255,6 +255,9 @@ a {
 
 /* responsive web */
 @media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
   .hero-konten .hero-title {
     width: 100%;
     font-size: 40px;
